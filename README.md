@@ -2,7 +2,7 @@
 
 ###### I like to develop applications using required technologies, learning stuff on the go. Passionate about learning new things. Regularly indulging to increase my knowledge. 🔭 :computer:
 
-###### Technologies I have dabbled with :file_folder: :
+Technologies I have dabbled with :file_folder: :
   * C++, Python, Javascript
   * MongoDB, ExpressJs, React, NodeJs
   * HTML, CSS, Bootstrap, Django 
