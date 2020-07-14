@@ -9,6 +9,8 @@ Technologies I have dabbled with :file_folder:
   * Redis, Docker, ELK
   * Machine Learning, Natural Language Processing
   * Android using Java 
+  
+![github stats](https://github-readme-stats.vercel.app/api?username=YatinGupta777&show_icons=true)  
 
 Also on Gitlab :satellite: : [Gitlab](https://gitlab.com/Yatin_Hyperverge)
 
