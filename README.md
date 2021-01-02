@@ -3,8 +3,8 @@
 ###### I like to develop applications using required technologies, learning stuff on the go. Passionate about learning new things. Regularly indulging to increase my knowledge. 🔭 :computer:
 
 Technologies I have dabbled with :file_folder:
-  * C++, Python, Javascript
-  * MongoDB, ExpressJs, React, NodeJs
+  * C++, Python, Javascript/TypeScripts
+  * MongoDB, ExpressJs, React, NodeJs/NestJs
   * HTML, CSS, Bootstrap, Django 
   * Redis, Docker, ELK
   * Machine Learning, Natural Language Processing
