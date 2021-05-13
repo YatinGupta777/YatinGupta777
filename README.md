@@ -6,7 +6,7 @@ Technologies I have dabbled with :file_folder:
   * C++, Python, Javascript/TypeScripts
   * MongoDB, ExpressJs, React, NodeJs/NestJs
   * HTML, CSS, Bootstrap, Django 
-  * Redis, Docker, ELK
+  * Redis, Docker, ELK, CI/CD, Firebase realtime DB
   * Machine Learning, Natural Language Processing
   * Android using Java 
   
