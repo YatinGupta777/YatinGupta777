@@ -22,3 +22,5 @@ Do check out my [Portfolio](https://yatingupta.engineer/) and other projects :sm
 
 <!--
 **YatinGupta777/YatinGupta777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Disclaimer : My old projects doesn't reflect the git strategy that I use now 😛 . Clean, small, descriptive and atomic commits is the way to go 🚀
