@@ -3,12 +3,9 @@
 ###### I like to develop applications using required technologies, learning stuff on the go. Passionate about learning new things. Regularly indulging to increase my knowledge. 🔭 :computer:
 
 Technologies I have dabbled with :file_folder:
-  * C++, Python, Javascript/TypeScripts
-  * MongoDB, ExpressJs, React, NodeJs/NestJs
-  * HTML, CSS, Bootstrap, Django 
-  * Redis, Docker, ELK, CI/CD, Firebase realtime DB
-  * Machine Learning, Natural Language Processing
-  * Android using Java 
+  * Languages: JavaScript, TypeScript, Python, C++, HTML, CSS
+  * Tools: Git, React, Redux, NodeJS, PostgreSQL, Elasticsearch, Firebase realtime DB
+  * Infrastructure: Nginx, Docker, CI/CD, Packer, ELK, Ansible, AWS, Terraform, Grafana, Opsgenie, Redis
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=YatinGupta777&show_icons=true)  
 
