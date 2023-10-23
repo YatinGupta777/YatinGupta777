@@ -2,15 +2,12 @@
 
 ###### I like to develop applications using required technologies, learning stuff on the go. Passionate about learning new things. Regularly indulging to increase my knowledge. 🔭 :computer:
 
-Technologies I have dabbled with file_folder:
-• Languages: C++, JavaScript, TypeScript, Python, SQL, HTML, CSS
-
-• Tools: React, NodeJS, PostgreSQL, Elasticsearch (ELK), Firebase, Redis, Puppeteer
-
-• DevOps: Jenkins, Nginx, Docker, Gitlab CI/CD, Amazon Web Services (AWS), Terraform, Packer, Ansible,
-Kubernetes, Grafana, Opsgenie
-
-• AWS: EC2, IAM, Auto-scaling, ELB, ALB, S3, SNS, SQS, Lambda, RDS, DynamoDB, API Gateway, OpenSearch, Amplify
+Technologies I have dabbled with :file_folder:\
+• <strong>Languages</strong>: C++, JavaScript, TypeScript, Python, SQL, HTML, CSS\
+• <strong>Tools</strong>: React, NodeJS, PostgreSQL, Elasticsearch (ELK), Firebase, Redis, Puppeteer\
+• <strong>DevOps</strong>: Jenkins, Nginx, Docker, Gitlab CI/CD, Amazon Web Services (AWS), Terraform, Packer, Ansible,
+Kubernetes, Grafana, Opsgenie\
+• <strong>AWS</strong>: EC2, IAM, Auto-scaling, ELB, ALB, S3, SNS, SQS, Lambda, RDS, DynamoDB, API Gateway, OpenSearch, Amplify\
   
 Do check out my [Portfolio](https://yatingupta.engineer/) and other projects :small_blue_diamond:
 
