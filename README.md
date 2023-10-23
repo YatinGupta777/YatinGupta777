@@ -4,9 +4,12 @@
 
 Technologies I have dabbled with file_folder:
 • Languages: C++, JavaScript, TypeScript, Python, SQL, HTML, CSS
+
 • Tools: React, NodeJS, PostgreSQL, Elasticsearch (ELK), Firebase, Redis, Puppeteer
+
 • DevOps: Jenkins, Nginx, Docker, Gitlab CI/CD, Amazon Web Services (AWS), Terraform, Packer, Ansible,
 Kubernetes, Grafana, Opsgenie
+
 • AWS: EC2, IAM, Auto-scaling, ELB, ALB, S3, SNS, SQS, Lambda, RDS, DynamoDB, API Gateway, OpenSearch, Amplify
   
 Do check out my [Portfolio](https://yatingupta.engineer/) and other projects :small_blue_diamond:
