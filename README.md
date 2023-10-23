@@ -2,15 +2,13 @@
 
 ###### I like to develop applications using required technologies, learning stuff on the go. Passionate about learning new things. Regularly indulging to increase my knowledge. 🔭 :computer:
 
-Technologies I have dabbled with :file_folder:
-  * Languages: JavaScript, TypeScript, Python, C++, HTML, CSS
-  * Tools: Git, React, Redux, NodeJS, PostgreSQL, Elasticsearch, Firebase realtime DB
-  * Infrastructure: Nginx, Docker, CI/CD, Packer, ELK, Ansible, AWS, Terraform, Grafana, Opsgenie, Redis
+Technologies I have dabbled with file_folder:
+• Languages: C++, JavaScript, TypeScript, Python, SQL, HTML, CSS
+• Tools: React, NodeJS, PostgreSQL, Elasticsearch (ELK), Firebase, Redis, Puppeteer
+• DevOps: Jenkins, Nginx, Docker, Gitlab CI/CD, Amazon Web Services (AWS), Terraform, Packer, Ansible,
+Kubernetes, Grafana, Opsgenie
+• AWS: EC2, IAM, Auto-scaling, ELB, ALB, S3, SNS, SQS, Lambda, RDS, DynamoDB, API Gateway, OpenSearch, Amplify
   
-![github stats](https://github-readme-stats.vercel.app/api?username=YatinGupta777&show_icons=true)  
-
-Also on Gitlab :satellite: : [Gitlab](https://gitlab.com/Yatin_Hyperverge)
-
 Do check out my [Portfolio](https://yatingupta.engineer/) and other projects :small_blue_diamond:
 
 📫 How to reach me: 
@@ -20,4 +18,4 @@ Do check out my [Portfolio](https://yatingupta.engineer/) and other projects :sm
 <!--
 **YatinGupta777/YatinGupta777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Disclaimer : My old projects doesn't reflect the git strategy that I use now 😛 . Clean, small, descriptive and atomic commits is the way to go 🚀
+Disclaimer: My old projects don't reflect the git strategy that I use now 😛 . Clean, small, descriptive, and atomic commits is the way to go 🚀
